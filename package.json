@@ -1,0 +1,9 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "React를 활용한 일정 및 프로젝트 개발 관리를 위한 Web Application",
+  "main": "index.js",
+  "repository": "https://github.com/worean/tracker",
+  "author": "박주영 <qkqwnjdud@gmail.com>",
+  "license": "MIT"
+}
